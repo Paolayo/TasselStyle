@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', 'localhost');
+define('_DB_NAME_', 'tassel');
+define('_DB_USER_', 'root');
+define('_DB_PASSWD_', '');
+define('_DB_PREFIX_', 'ts_');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', 'bWFu4yXCD0A5dDNgkTsnVtbGEAe9vRsqi3WnRi5v0Uoexse4vspCSQLa');
+define('_COOKIE_IV_', 'cOa16uAX');
+define('_PS_CREATION_DATE_', '2014-08-08');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', 'JKM2r9LOhHhVx0nsCVzXkVQvCqzOKcAs');
+define('_RIJNDAEL_IV_', 'VSAFPox0hCGdGODm7xNDWA==');
